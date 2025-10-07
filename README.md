@@ -29,8 +29,8 @@ Build a responsive recipe page to the designs provided
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/omar-aser93/recipe-page)
+- Live Site URL: (https://omar-aser93.github.io/recipe-page/)
 
 
 ## My process
